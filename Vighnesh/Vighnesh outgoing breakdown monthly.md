@@ -1,19 +1,20 @@
-House EMI - 1103
-Car insurance - 85
-Electricity/Gas - 102
-Council tax - 210
-Matainance - 83
-Home ins 1- 50
-Home ins 2 - 20
-Grocery/Househol -500
-Wifi - 30
-Netflix - 6
-Disney plus - 6
-mobile data - 10
-chagpt - 20
-prime - 5
+Jun 2026
 
-2230
-
-
-770
+| To pay                     | pounds   |
+| -------------------------- | -------- |
+| Newcastle House EMI        | 1103.23  |
+| Admiral Car insurance      | 85.05    |
+| British Electricity/Gas    | 102      |
+| Glasgow Council tax        | 210      |
+| Lowther House Maintainance | 83.88    |
+| Aviva Home insurance1      | 50       |
+| Aviva Home insurance2      | 20       |
+| Grocery                    | 500      |
+| Wifi                       | 30       |
+| Netflix                    | 6        |
+| Amazon prime               | 8        |
+| Disney plus                | 6        |
+| Mobile data                | 10       |
+| chagpt                     | 20       |
+| prime                      | 5        |
+| **Total**                  | **2238** |
